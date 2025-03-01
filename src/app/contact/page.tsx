@@ -3,8 +3,8 @@ export default function ContactPage() {
     <div>
       <h1 className="text-3xl font-bold mb-4">Contact Me</h1>
       <p className="mb-4">
-        I'm always open to new opportunities and collaborations. Feel free to reach out 
-        to me through any of the following methods:
+       I am always open to new opportunities and collaborations. Feel free to reach out 
+       to me through any of the following methods:
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div className="bg-white p-6 rounded-lg shadow-md">

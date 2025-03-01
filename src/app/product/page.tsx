@@ -4,7 +4,7 @@ export default function ProductPage() {
       <h1 className="text-3xl font-bold mb-4">Product Page</h1>
       <p className="mb-4">
         Here you can showcase a specific product or service you offer. 
-        Describe its features, benefits, and why it's unique.
+        Describe its features, benefits, and why it is unique.
       </p>
       <div className="bg-white p-6 rounded-lg shadow-md">
         <h2 className="text-2xl font-bold mb-2">Featured Product</h2>

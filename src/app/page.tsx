@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
       <h1 className="text-4xl font-bold mb-4">Welcome to My Portfolio</h1>
       <p className="text-xl mb-8">
-        I'm Malgorzata Bilejszys, a web developer passionate about creating amazing web experiences.
+        I am Malgorzata Bilejszys, a web developer passionate about creating amazing web experiences.
       </p>
       <Image src="/placeholder.svg" alt="Malgorzata Bilejszys" width={200} height={200} className="rounded-full mb-4" />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
