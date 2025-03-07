@@ -1,0 +1,27 @@
+{
+  "home": {
+    "welcome": "Welcome to my portfolio",
+    "bio": {
+      "title": "BIO",
+      "who": "Who I am",
+      "whoDesc": "Industrial design engineer who moved from PL to DK",
+      "what": "What I do",
+      "whatDesc": "product design, webdev, sustainable design",
+      "mission": "Mission",
+      "missionDesc": "I aim for sustainability in webdesign or whatever"
+    },
+    "work": {
+      "title": "Work Experience",
+      "subtitle": "My professional journey"
+    },
+    "projects": {
+      "title": "Projects",
+      "subtitle": "Featured work"
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Get in touch"
+    }
+  }
+}
+

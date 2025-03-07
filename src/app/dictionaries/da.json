@@ -1,0 +1,27 @@
+{
+  "home": {
+    "welcome": "Velkommen til min portfolio",
+    "bio": {
+      "title": "BIO",
+      "who": "Hvem jeg er",
+      "whoDesc": "Industriel designingeniør, der flyttede fra PL til DK",
+      "what": "Hvad jeg laver",
+      "whatDesc": "produktdesign, webudvikling, bæredygtigt design",
+      "mission": "Mission",
+      "missionDesc": "Jeg stræber efter bæredygtighed i webdesign eller hvad som helst"
+    },
+    "work": {
+      "title": "Arbejdserfaring",
+      "subtitle": "Min professionelle rejse"
+    },
+    "projects": {
+      "title": "Projekter",
+      "subtitle": "Fremhævet arbejde"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "subtitle": "Tag kontakt"
+    }
+  }
+}
+
